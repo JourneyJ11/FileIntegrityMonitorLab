@@ -37,7 +37,7 @@ Detect Changes: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-Testing and Run the Application: <br/>
+Test and Run the Application: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
