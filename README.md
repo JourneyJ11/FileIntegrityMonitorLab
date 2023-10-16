@@ -26,7 +26,7 @@ Application Overview: <br/>
 <br />
 <br />
 User Input Handling: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/RKIoT7f.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Monitor Files: <br/>
@@ -38,7 +38,7 @@ Detect Changes: <br/>
 <br />
 <br />
 Test and Run the Application: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/gO4Gbkq.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
 
